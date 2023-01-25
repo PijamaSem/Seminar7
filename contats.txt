@@ -1,0 +1,17 @@
+99
+Контактов в записной книжке
+1; sdf; sdv; q234
+2; sdvcdsv; sdv; sdv
+3; svsdv; sdvdsv; sdv
+5; Andrey; Alexeev; 124
+5; ewfwef; wefwef32; 232526
+99
+; dsfsdg; dsgdfsg; 235
+99
+; dfsdg; sdgsdg; 235236
+100; werwer; ewtwet; 435346534
+100; dsdsv; sdvdsvds; dsvdsv
+100; wsvfsvsvdfvdfv; fdvdfvfdvdfvfd; 43643643565467457
+100; wefwef; ssdfds; 3454364
+100; dsvdsv; vdfvdf; 43t363
+101; dfbfdbfdb; dfbfdbdfb; 43534634
